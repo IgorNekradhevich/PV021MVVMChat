@@ -1,0 +1,12 @@
+C:\Users\STUDENT\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\STUDENT\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\STUDENT\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\STUDENT\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\STUDENT\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\STUDENT\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\1\SuperChat\MyChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\1\SuperChat\MyChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\1\SuperChat\MyChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\1\SuperChat\MyChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\1\SuperChat\MyChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\1\SuperChat\MyChatServer\ChatServer\obj\Debug\ChatServer.pdb
